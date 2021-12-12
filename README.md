@@ -1,5 +1,5 @@
 # NewsIndia-App
-▼ NewIndia App interface
+▼ NewsIndia App interface
 
 ![s1](https://user-images.githubusercontent.com/54256792/145708048-c427b878-bdb9-4dbb-ae0e-3ee441b65df4.png)
 
